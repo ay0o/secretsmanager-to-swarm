@@ -1,0 +1,5 @@
+.terraform*
+lambda.zip
+terraform.tfvars
+terraform.tfstate*
+lambda/dependencies
